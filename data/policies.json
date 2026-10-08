@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CL-OLD",
+    "tenant": "demo",
+    "workflow": "claims",
+    "title": "Inpatient claim filing deadline",
+    "text": "Submit inpatient claims within 45 calendar days of discharge. Refer unclear claims to a human reviewer.",
+    "version": "2025.1",
+    "effective_from": "2025-01-01",
+    "effective_until": "2026-07-01"
+  },
+  {
+    "id": "CL-NEW",
+    "tenant": "demo",
+    "workflow": "claims",
+    "title": "Inpatient claim filing deadline",
+    "text": "Submit inpatient claims within 30 calendar days of discharge, with the itemized bill and discharge summary. Human reviewer decides claims.",
+    "version": "2026.2",
+    "effective_from": "2026-07-01",
+    "effective_until": null
+  },
+  {
+    "id": "EN-1",
+    "tenant": "demo",
+    "workflow": "enrollment",
+    "title": "Dependent enrollment required documents",
+    "text": "Dependent enrollment requires proof of relationship and employee enrollment identifier. Specialist verifies coverage.",
+    "version": "1",
+    "effective_from": "2026-01-01",
+    "effective_until": null
+  },
+  {
+    "id": "ED-1",
+    "tenant": "demo",
+    "workflow": "endorsements",
+    "title": "Endorsement effective date backdating",
+    "text": "Do not backdate endorsement effective dates without compliance review and insurer confirmation.",
+    "version": "1",
+    "effective_from": "2026-01-01",
+    "effective_until": null
+  },
+  {
+    "id": "BI-1",
+    "tenant": "demo",
+    "workflow": "billing",
+    "title": "Employer premium invoice due",
+    "text": "Employer premium invoices are due 10 calendar days after the invoice issue date. Billing specialist reviews disputes.",
+    "version": "1",
+    "effective_from": "2026-01-01",
+    "effective_until": null
+  },
+  {
+    "id": "OTHER-1",
+    "tenant": "other",
+    "workflow": "claims",
+    "title": "Inpatient claim filing deadline",
+    "text": "Other insurer requires inpatient claims within 20 calendar days. Human claims review is required.",
+    "version": "1",
+    "effective_from": "2026-01-01",
+    "effective_until": null
+  }
+]
