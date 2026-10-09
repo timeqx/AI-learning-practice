@@ -40,3 +40,10 @@ Access API docs at http://127.0.0.1:8000/docs. Never use actual patient or insur
 ## Your goal
 
 By the end you should have reproducible tests and benchmarks, dated policies, multi-tenant authorization, versioned prompts and knowledge bases, prompt-injection tests, defensible human approval workflows, AWS sandbox experiments, operational dashboards, incident runbooks, and a public evidence portfolio. This is training and can strengthen a portfolio; it does not confer years of production employment experience.
+
+## Learning management dashboard (Notion)
+
+Track your lessons, practical tickets, review cards, evaluation scores and study sessions in the [AI Engineering OS](https://app.notion.com/p/3f43acc62d0d81428a84cc85aa117f26). The workspace is a companion to this repository, not an automatic two-way sync.
+
+- [Lesson 1–5 Reviewer](https://app.notion.com/p/3f43acc62d0d8137a67dcc961b3ae4c6)
+- [Notion workspace & learning workflow guide](docs/NOTION_LEARNING_OS.md)
