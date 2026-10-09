@@ -14,6 +14,19 @@
 - [Operating Guide](https://app.notion.com/p/3f43acc62d0d8143ab0cebf7f902f1d7)
 - [Product Blueprint](https://app.notion.com/p/3f43acc62d0d819cb13cc1c119267b78)
 
+## Organized section pages
+
+The Notion home is now a clean overview. Each domain has its own page, database, and views:
+
+- [01 · Roadmap & Progress](https://app.notion.com/p/3f43acc62d0d81c9a31de916620555da) — milestone status chart, evidence and mastery.
+- [02 · Practice & Sprint Board](https://app.notion.com/p/3f43acc62d0d81268603f136ee772e4e) — priority queue and Kanban.
+- [03 · Study Notes & Flashcards](https://app.notion.com/p/3f43acc62d0d81a28fbfdea4b9a2484f) — reviewer, concept cards and review calendar.
+- [04 · Evaluation & Quality Metrics](https://app.notion.com/p/3f43acc62d0d81db86d5dd2175d00fd8) — golden evaluation results and cosine comparison chart.
+- [05 · Learning Sessions & Journal](https://app.notion.com/p/3f43acc62d0d815081d9e8caa30ead01) — study journal and calendar.
+- [06 · Product Architecture & Guides](https://app.notion.com/p/3f43acc62d0d81e8abadf1ba80eb1e78) — capstone blueprint and usage guide.
+
+All original Notion data entries were preserved during reorganization. The home retains a collapsed group of older linked views; the working views are located on their corresponding section pages.
+
 ## Workflows
 
 1. **Choose:** select an active ticket in the Notion Practice Backlog.
