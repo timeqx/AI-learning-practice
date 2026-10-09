@@ -1,6 +1,6 @@
 # Reviewer — AI Engineering Lessons 1–5
 
-> Companion [Notion learning dashboard](https://app.notion.com/p/3f42ada7252c81599529da51093165ce) · [Detailed flashcard reviewer](https://app.notion.com/p/3f42ada7252c8153bc8ce07a55c9088a)
+> Companion [Notion learning dashboard](https://app.notion.com/p/3f43acc62d0d81428a84cc85aa117f26) · [Detailed flashcard reviewer](https://app.notion.com/p/3f43acc62d0d8137a67dcc961b3ae4c6)
 > Practise with **synthetic HMO documents only**. This is a learner's reference, not an insurer decision system.
 
 ## 1. Mental model
