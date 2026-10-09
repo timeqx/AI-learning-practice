@@ -59,10 +59,10 @@ Three passing test questions yield 100% Hit@1 **only on those cases**. They do n
 
 ### Fix the current evaluator in `semantic_retrieval_practice.py`
 
-1. Outpatient case wrongly expects `CL-NEW`; the correct expectation is `CL-OUT`.
-2. All cases use hardcoded `as_of=date(2026,6,1)` even the October case. Give each case an `as_of` ISO date and pass `date.fromisoformat(case["as_of"])`.
-3. Replace accidental “Impatient” typo with an unambiguous inpatient question first; then add typo cases as robustness tests.
-4. Add an empty-result case and a wrong-tenant case. Avoid interpreting a missing document as an embedding failure.
+1. Outpatient case wrongly expects `CL-NEW`; the correct expectation is `CL-OUT`. done
+2. All cases use hardcoded `as_of=date(2026,6,1)` even the October case. Give each case an `as_of` ISO date and pass `date.fromisoformat(case["as_of"])`. done
+3. Replace accidental “Impatient” typo with an unambiguous inpatient question first; then add typo cases as robustness tests. done
+4. Add an empty-result case and a wrong-tenant case. Avoid interpreting a missing document as an embedding failure. done
 5. Keep deterministic fixture data and expected versions controlled. Add per-case failure output, not just an aggregate pass percentage.
 
 ## 6. Flashcard questions
