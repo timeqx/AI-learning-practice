@@ -27,6 +27,27 @@ The Notion home is now a clean overview. Each domain has its own page, database,
 
 All original Notion data entries were preserved during reorganization. The home retains a collapsed group of older linked views; the working views are located on their corresponding section pages.
 
+## Visual lessons and AI pipelines
+
+The knowledge and architecture sections now contain independent diagram-first pages (native Notion Mermaid diagrams, examples, terminology, and practice links). Existing reviewer, databases, experiment records, and progress trackers are preserved.
+
+### Topic-based lesson notes
+
+- [Lesson 01: Python, FastAPI & RAG big picture](https://app.notion.com/p/3f43acc62d0d81349b76c408d623efe9)
+- [Lesson 02: Keyword search & lexical matching](https://app.notion.com/p/3f43acc62d0d81e29f33fc711d934b47)
+- [Lesson 03: Embeddings & cosine similarity](https://app.notion.com/p/3f43acc62d0d81c28720ddd6c96b6162)
+- [Lesson 04: Authorized semantic retrieval](https://app.notion.com/p/3f43acc62d0d81168203fe0f6500cd2e)
+- [Lesson 05: Golden sets & retrieval metrics](https://app.notion.com/p/3f43acc62d0d81549938c8b49abba3ab)
+- [Visual AI glossary: terms, connections, diagrams](https://app.notion.com/p/3f43acc62d0d817e9458cf7fe2830b2c)
+
+### System pipelines
+
+- [Pipeline A: Query-time RAG](https://app.notion.com/p/3f43acc62d0d813b8a3ffbe647761ed8)
+- [Pipeline B: Policy ingestion & vector indexing](https://app.notion.com/p/3f43acc62d0d81039864d44c2ee256e1)
+- [Pipeline C: Evaluation & safety gates](https://app.notion.com/p/3f43acc62d0d810d9ef4e030ee72e1c7)
+
+Use GitHub for source-controlled exercises and technical specifications. Notion is a learning tracker and interactive reference, not a live GitHub sync.
+
 ## Workflows
 
 1. **Choose:** select an active ticket in the Notion Practice Backlog.
